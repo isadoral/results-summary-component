@@ -20,10 +20,11 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 ### Screenshot
 
 ![](src/assets/images/screenshot-mobile.png)
+![](src/assets/images/screenshot-vercel.png)
 
 ### Links
 
-- Live Site URL: [Vercel deployment](https://fm-qr-code-challenge-5e6cam4f0-isadoral.vercel.app/)
+- Live Site URL: [Vercel deployment](https://results-summary-component-pied.vercel.app/)
 
 ## My process
 
