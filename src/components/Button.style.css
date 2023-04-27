@@ -1,0 +1,19 @@
+button {
+  background-color: rgba(48, 59, 89, 255);
+  color: white;
+  height: 55px;
+  width: 285px;
+  border-radius: 35px;
+  font-family: "Hanken Grotesk", sans-serif;
+  font-size: 18px;
+  border: none;
+}
+
+button:hover {
+  cursor: pointer;
+  background: linear-gradient(
+    to bottom,
+    hsl(252, 100%, 67%) 0%,
+    hsl(241, 81%, 54%) 100%
+  );
+}
