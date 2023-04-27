@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import { FunctionComponent } from "react";
 import { MemoryIcon } from "../../assets/images/icon-memory.svg";
 import { ReactionIcon } from "../../assets/images/icon-reaction.svg";
 import { VerbalIcon } from "../../assets/images/icon-verbal.svg";
@@ -8,7 +8,7 @@ interface ResultCardProps {
   title: string;
 }
 
-const ResultCard: React.FC<ResultCardProps> = ({ title }) => {
+const ResultCard: FunctionComponent<ResultCardProps> = ({ title }) => {
   let value;
   let color = "";
 
